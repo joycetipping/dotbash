@@ -10,7 +10,7 @@ dotbash use tmux                # always load this one first
 
 dotbash use prompt
 
-#dotbash use docker
+dotbash use docker
 #dotbash use history
 #dotbash use lambda
 #dotbash use nfu
